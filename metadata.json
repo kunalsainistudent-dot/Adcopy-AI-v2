@@ -1,0 +1,6 @@
+{
+  "name": "AdCopy AI - Autonomous Ad Copy & Creative Studio",
+  "description": "Multi-platform ad copy generator, computer vision creative hook analyzer, A/B matrix testing, and creative asset vault.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
